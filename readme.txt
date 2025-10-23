@@ -1,8 +1,8 @@
-Nombre: Javier
-Apellidos: Rivero Moreno
-Email: Javinho@outlook.es
-Nick-github: JavierReus
-Edad: 22
-Ciudad: Las Palmas de Gran Canaria
-Hobbies:leer
-Hobbies: muay thai.....
+ 
+Nombre: David
+Apellidos: Gaviria
+Email: davidgaviria@outlook.es
+Nick-github: 
+Edad: 25
+Ciudad: Argelia valle del cauca
+Hobbies: escuchar music
