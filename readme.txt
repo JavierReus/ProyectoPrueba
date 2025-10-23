@@ -3,6 +3,7 @@ Apellidos: Santana Reyes
 Email: luisdoc@outlook.es
 Nick-github: luis2doc
 Edad: 
-Ciudad: 
+Ciudad: las palmas
+
 
 
