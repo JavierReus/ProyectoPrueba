@@ -1,4 +1,4 @@
-Nombre: Javier
+Nombre: Francisco Javier
 Apellidos: Rivero Moreno
 Email: Javinho@outlook.es
 Nick-github: JavierReus
