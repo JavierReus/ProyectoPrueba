@@ -49,17 +49,3 @@ Nick-github: LkYharlan.
 Edad: 32.
 Ciudad: Las Palmas de Gran Canaria.
 Hobbies: Videojuegos y streaming.
-
-
-
-
-=======
-Hobbies: escuchar musica tecno, 
-
-Nombre: Sara Covadonga
-Apellidos: Valdes Gil
-Email: saracovadongavaldesgil@gmail.com
-Nick-github: AckermanCV
-Edad: 19
-Ciudad: Telde 
-Hobbies: Dibujar, juegar jueguitos, escuchar musica...
