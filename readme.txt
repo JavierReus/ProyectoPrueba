@@ -53,8 +53,7 @@ Hobbies: Videojuegos y streaming.
 
 
 
-=======
-Hobbies: escuchar musica tecno, 
+
 
 Nombre: Sara Covadonga
 Apellidos: Valdes Gil
